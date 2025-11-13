@@ -230,4 +230,8 @@ pyrightconfig.json
 # 개인
 5mil/
 data/*
+# output 폴더 전체 무시
 output/*
+# 단, output/model 폴더는 예외로 포함
+!output/model/
+!output/model/**
