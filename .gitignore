@@ -230,3 +230,4 @@ pyrightconfig.json
 # 개인
 5mil/
 data/*
+output/*
